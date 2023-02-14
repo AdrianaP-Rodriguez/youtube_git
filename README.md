@@ -1,3 +1,5 @@
-Curso de _Git_&_GitHub_
+# Curso de _Git_&_GitHub_
+
 Hola mundo!
-Bienvenido a curso 
+Bienvenido al curso de Jonathan Mircha
+hola mundo! again
